@@ -155,8 +155,8 @@ Bevordert tekstwaardering
 Schrauwen et al meent ook andere effecten te zien maar onbewezen door slecht onderzoek.
 
 #### Stappen in leerproces
-**Oppervlaktemodel** = Talige vorm van de tekst
-**Tekstmodel** = Structuur van de inhoud
+**Oppervlaktemodel** = Talige vorm van de tekst  
+**Tekstmodel** = Structuur van de inhoud  
 **Situatiemodel** =  Integratie van tekstinhoud met wat je al weet
 
 ## College 2
